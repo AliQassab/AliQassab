@@ -13,15 +13,11 @@
 <br>
 - 👯 I’m looking to collaborate on ...
 <br>
-- 🤔 I’m looking for help with ...
-<br>
-- 💬 Ask me about ...
+-See my work at my landing page: <a href="https://aliqassab.github.io/Portfolio/">Here</a>
 <br>
 - 📫 How to reach me: <a
-        href="mailto:alaahan80@icloud.com?subject=Your%20Subject&body=Your%20Message"
-        class="btn btn-primary"
-      >
-        email me
+        href="mailto:alaahan80@icloud.com?subject=Your%20Subject&body=Your%20Message" >
+        EMAIL ME
       </a>
 <br>
 - ⚡ Fun fact: ...
