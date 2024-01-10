@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋!  My name is Ali and I am am looking to be a software developer</h2>
+<h2 align="left">Hi 👋!  My name is Ali and I am looking to be a software developer</h2>
 
 ###
 
@@ -11,7 +11,7 @@
 <hr>
 - 🌱 I’m currently learning Software Foundation at <a href="https://www.foundersandcoders.com/">Founders and Coders</a>
 <br>
-- 👯 I’m looking to collaborate on ...
+- I am passionate about building software that makes a difference. I'm eager to learn and grow as a developer.
 <br>
 -See my work at my landing page: <a href="https://aliqassab.github.io/Portfolio/">Here</a>
 <br>
@@ -20,7 +20,7 @@
         EMAIL ME
       </a>
 <br>
-- ⚡ Fun fact: ...
+
 
 <h2>Strong skills in web development languages:</h2>
 
