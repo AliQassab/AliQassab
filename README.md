@@ -9,9 +9,7 @@
   
 </div>
 <hr>
-- 🔭 I’m currently working on ...
-<br>
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Software Foundation at <a href="https://www.foundersandcoders.com/">Founders and Coders</a>
 <br>
 - 👯 I’m looking to collaborate on ...
 <br>
@@ -19,7 +17,12 @@
 <br>
 - 💬 Ask me about ...
 <br>
-- 📫 How to reach me: ...
+- 📫 How to reach me: <a
+        href="mailto:alaahan80@icloud.com?subject=Your%20Subject&body=Your%20Message"
+        class="btn btn-primary"
+      >
+        email me
+      </a>
 <br>
 - ⚡ Fun fact: ...
 
