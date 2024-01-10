@@ -13,6 +13,8 @@
 <br>
 - I am passionate about building software that makes a difference. I'm eager to learn and grow as a developer.
 <br>
+- I believe what benefits people stays in the world.
+<br>
 -See my work at my landing page: <a href="https://aliqassab.github.io/Portfolio/">Here</a>
 <br>
 - 📫 How to reach me: <a
