@@ -9,7 +9,7 @@
   
 </div>
 <hr>
-- 🌱 I’m currently learning Software Foundation at <a href="https://www.foundersandcoders.com/">Founders and Coders</a>
+- 🌱 I’m currently learning Software Foundation at <a href="https://codeyourfuture.io/">CodeYourFutuer</a>
 <br>
 - I am passionate about building software that makes a difference. I'm eager to learn and grow as a developer.
 <br>
