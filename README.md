@@ -18,7 +18,7 @@
 <br>
 - I believe: what benefits people stay on the earth.
 <br>
--See my work at my landing page: <a href="https://aliqassab.github.io/Portfolio/">Here</a>
+-See my work at my landing page: <a href="https://qaliportfolio.netlify.app/">Here</a>
 <br>
 - 📫 How to reach me: <a
         href="mailto:alaahan80@icloud.com?subject=Your%20Subject&body=Your%20Message" >
